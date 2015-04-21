@@ -1,0 +1,2 @@
+# ofxMidiClock
+Translate MIDI_SONG_POS_POINTER, MIDI_TIME_CLOCK, MIDI_START, MIDI_CONTINUE, MIDI_STOP into something useful
